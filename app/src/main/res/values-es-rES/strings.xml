@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LCDP</string>
+    <string name="denver">Dénver</string>
+    <string name="moscu">Moscú</string>
+    <string name="rio">Río</string>
+    <string name="tokio">Tokio</string>
+    <string name="profe">El Profesor</string>
+    <string name="berlin">Berlín</string>
+    <string name="descBerlin">"Pedro Alonso se pondrá en la piel de Berlín, el jefe al mando en el interior de la Fábrica de Moneda.
+Ladrón de guante blanco especializado en el robo de joyas. Ingresó en el mundo del crimen para mantener
+el altísimo nivel de vida al que estaba acostumbrado desde la cuna. Es un hombre que sabe tener
+modales finos, que se cree superior al resto de la banda, a quienes desprecia íntimamente.
+Pero también sabe ser brutal y directo cuando conviene. Su talón de Aquiles son las mujeres,
+y esta será la circunstancia que ponga en riesgo su liderazgo.
+"</string>
+    <string name="descProfe">"Álvaro Morte interpretará a El profesor. Treintañero. Barba, gafas de pasta…
+El cerebro de la operación. Un hombre que nadie asociaría a priori a ningún plan criminal.
+Dialogante, de fina ironía y autodidacta, es la antítesis de cualquiera de los individuos que
+integran su banda. De inteligencia superior, ha planeado durante años hasta el mínimo detalle
+de la operación. Parece saberlo todo, anticiparse a todo desde su puesto de observación en el exterior.
+No obstante, no contaba con establecer un vínculo tan fuerte con la negociadora policial (Raquel),
+una mujer que le va a marcar. "</string>
+    <string name="descTokio">"Úrsula Corberó interpreta a Tokio. Dura, impulsiva, con una aparente falta de empatía
+(aunque esto sólo sea una pose). Su vida siempre fue un balancín. Tokio ingresó en el mundo del
+crimen con 14 años siguiendo los pasos de su novio, de 28. Desde entonces ha alternado periodos
+de normalidad, con su empleo convencional, con otros ligados a todo tipo de atracos. Eso sí,
+cada vez más audaces. En uno de ellos, el asalto a una furgoneta de Prosegur, se vio envuelta
+en un tiroteo con el resultado de tres muertos, uno de ellos su novio. En búsqueda y captura
+desde entonces."</string>
+    <string name="descRio">"Miguel Herrán es Río, un chico que ha pasado su infancia programando y hackeando. Una adolescencia
+con la mirada en la Red. Esa capacidad y esos conocimientos le hicieron jefe técnico de una empresa
+de seguridad siendo aún muy joven. En lo personal, todo ese saber no vino acompañado de un grado
+de madurez equiparable. Así, pronto se vio metido en hackeos y roturas de sistemas de seguridad
+que poco tenían de juego. Terminó en búsqueda y captura por la Interpol, situación de la que le
+rescató El Profesor. Es el maestro tecnológico del grupo."</string>
+    <string name="descMoscu">"Paco Tous es Moscú. Minero. La silicosis y el asma lo alejaron de la mina y terminó en una cerrajería.
+Es capaz de hacer cualquier cosa con metal y, por supuesto, abre cualquier cerradura.
+Esa habilidad y una etapa de precariedad económica le llevaron al crimen. En los últimos
+años ha sido condenado por atracos, estafa, robo de varias joyerías y su gran especialidad:
+Agujerear cajas acorazadas. Su debilidad es su hijo (Denver), cabeza loca del que nunca ha hecho carrera,
+y con el que ahora comparte misión y banda en la Fábrica de Moneda."</string>
+    <string name="descDenver">"Jaime Lorente interpreta a Denver, hijo de Moscú. Macarra de extrarradio, un poco corto de miras
+e impulsivo. Alternó su juventud entre los botellones del parking del Caprabo y las barracas de la feria.
+Coqueteó con todas las drogas posibles y quizás por tal abuso, hay una conexión en su cerebro
+que salta a “modo irascible” sin motivo alguno. Genera tensión por donde pasa, y es mejor no tratar
+en exceso con él. Su padre es su único anclaje con la humanidad y los sentimientos. Haría cualquier
+cosa por él."</string>
+</resources>

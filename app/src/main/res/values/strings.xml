@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LCDP</string>
+    <string name="berlin">Berlin</string>
+    <string name="profe">The Teacher</string>
+    <string name="tokio">Tokyo</string>
+    <string name="moscu">Moscow</string>
+    <string name="denver">Denver</string>
+    <string name="rio">Rio</string>
+    <string name="descProfe">"The brain of the operation. A man that no one would associate a priori with any criminal plan.
+Dialogue, of fine irony and self-taught, he is the antithesis of any of the individuals who
+they are part of his band. Of superior intelligence, he has planned for years down to the smallest detail
+of the operation. He seems to know everything, anticipating everything from his observation post on the outside.
+However, he did not count on establishing such a strong bond with the police negotiator (Raquel),
+a woman who is going to mark him.</string>
+    <string name="descBerlin">Pedro Alonso will put himself in the shoes of Berlin, the boss in command inside the Mint.
+White-collar thief specialized in jewelery theft. He entered the world of crime to keep
+the very high standard of living to which he was accustomed from the cradle. He is a man who knows how to have
+fine manners, which he believes is superior to the rest of the gang, whom he intimately despises.
+But he also knows how to be brutal and direct when he agrees. His Achilles heel is women,
+and this will be the circumstance that puts his leadership at risk.</string>
+    <string name="descTokio">"Úrsula Corberó plays Tokio. Tough, impulsive, with an apparent lack of empathy
+(even if this is just a pose). Her life was always a seesaw. Tokyo entered the world of
+crime with 14 years following in the footsteps of her boyfriend, 28. She Since then she has alternated periods
+of normality, with the conventional use of it, with others linked to all kinds of robberies. Yes indeed,
+more and more daring. In one of them, the assault on a Prosegur van, she was involved
+in a shooting that resulted in three deaths, one of them her boyfriend. In search and capture
+since then."</string>
+    <string name="descRio">"Miguel Herrán is Río, a boy who has spent his childhood programming and hacking. An adolescence
+with an eye on the Internet. That ability and knowledge made him the technical head of a company
+security being still very young. Personally, all that knowledge was not accompanied by a degree
+of comparable maturity. Thus, he soon found himself involved in hacks and security system breaches.
+that they had little to play with. He ended up in a search and capture by Interpol, a situation of which he
+rescued The Professor. He is the technological master of the group."</string>
+    <string name="descMoscu">"Paco Tous is Moscow. Miner. Silicosis and asthma drove him away from the mine and he ended up in a locksmith.
+He is capable of doing anything with metal, and of course he opens any lock.
+That ability and a period of economic precariousness led him to crime. In the last
+years he has been convicted of robberies, fraud, theft of various jewelry stores and his great specialty:
+Pierce vaults. His weakness is that of his son (Denver), crazy head of whom he has never made a career,
+and with whom he now shares a mission and gang at the Mint."</string>
+    <string name="descDenver">"Jaime Lorente plays Denver, son of Moscow. Outskirts badass, a little short-sighted
+and impulsive. He alternated his youth between the large bottles in the Caprabo parking lot and the barracks at the fair.
+He flirted with all possible drugs and perhaps because of such abuse, there is a connection in his brain
+that jumps into "irascible mode" for no reason. He generates tension wherever he goes, and it is better not to try
+in excess with him. His father is his only anchor with humanity and feelings. He would do any
+thing for him."</string>
+</resources>
