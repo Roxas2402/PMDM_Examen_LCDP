@@ -46,7 +46,7 @@ public class MostrarPersonajeActivity extends AppCompatActivity {
         }
         if (bundle != null && bundle.getString("TOKIO") != null) {
             lblPersonaje.setText(R.string.tokio);
-            lblDescripcion.setText(R.string.descBerlin);
+            lblDescripcion.setText(R.string.descTokio);
             imgPersonaje.setImageResource(R.drawable.tokio);
         }
         if (bundle != null && bundle.getString("PROFE") != null) {
